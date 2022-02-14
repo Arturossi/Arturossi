@@ -63,7 +63,7 @@
         <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
     </a>
     <a href="https://laravel.com/">
-        <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=%F05340"/>
+        <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=f05340&color=6C6C6C"/>
     </a>
 </div>
 
