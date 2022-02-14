@@ -62,6 +62,9 @@
     <a href="https://www.djangoproject.com">
         <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
     </a>
+    <a href="https://laravel.com/">
+        <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=%F05340"/>
+    </a>
 </div>
 
 <div align="center">
