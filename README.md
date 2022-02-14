@@ -50,9 +50,9 @@
 
 <div align="center">
     <h1>Frameworks</h1>
-    <a href="https://vuejs.org">
+    <!--<a href="https://vuejs.org">
         <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-    </a>
+    </a>-->
     <a href="https://getbootstrap.com">
         <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
