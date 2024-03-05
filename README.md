@@ -89,12 +89,6 @@
 
 <div align="center">
     <h1>ML/DL</h1>
-    <a href="https://keras.io">
-        <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-    </a>
-    <a href="https://www.tensorflow.org/">
-        <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    </a>
     <a href="https://pandas.pydata.org">
         <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     </a>
