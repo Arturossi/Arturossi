@@ -88,22 +88,9 @@
 </div>
 
 <div align="center">
-    <h1>ML/DL</h1>
-    <a href="https://pandas.pydata.org">
-        <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-    </a>
-    <a href="https://numpy.org">
-        <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-    </a>
-</div>
-
-<div align="center">
     <h1>Version Control</h1>
     <a href="https://github.com">
         <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://bitbucket.org">
-        <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
     </a>
 </div>
 
@@ -113,7 +100,7 @@
         <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     </a>
     <a href="https://www.microsoft.com/pt-br/windows/">
-        <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+        <img alt="Windows 11" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </a>
 </div>
 
